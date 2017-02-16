@@ -39,7 +39,7 @@
  
 - [ ] [Search Insert Position](solution link comes here)
 - [ ] [10 beautiful practice question](solution link comes here)
-- [ ] [Ice Cream Parlor](solution link comes here)
+- [x] [Ice Cream Parlor](https://github.com/geraldo1993/Hackerrank/blob/master/Algorithm/Searching/Ice%20Cream%20Parlor.py)
 - [ ] [Maximum Subarray Sum](solution link comes here)
 
 
