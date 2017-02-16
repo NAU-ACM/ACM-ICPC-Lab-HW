@@ -5,7 +5,7 @@
 
 ## Week 1
 ### Prime Numbers
-- [x] [Prime Numbers Implementation ](solution link comes here)
+- [x] [Prime Numbers Implementation ](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/Prime%20Numbers.py)
 
 ## Week 5
 ### Breadth First Search(BFS)
