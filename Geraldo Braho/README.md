@@ -29,18 +29,18 @@
 
 - [x] [Counting Sort 1](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%203/Counting%20sort-1.py)
 - [x] [Counting Sort 2](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%203/Counting%20sort-2.py)
-- [] [Counting Sort 3](solution link comes here)
-- [] [The Full Counting Sort](solution link comes here)
+- [ ] [Counting Sort 3](solution link comes here)
+- [ ] [The Full Counting Sort](solution link comes here)
 
 
 ## Week 4
 ### Merge Sort
 ### Binary Search
  
-- [] [Search Insert Position](solution link comes here)
-- [] [10 beautiful practice question](solution link comes here)
-- [] [Ice Cream Parlor](solution link comes here)
-- [] [Maximum Subarray Sum](solution link comes here)
+- [ ] [Search Insert Position](solution link comes here)
+- [ ] [10 beautiful practice question](solution link comes here)
+- [ ] [Ice Cream Parlor](solution link comes here)
+- [ ] [Maximum Subarray Sum](solution link comes here)
 
 
 
@@ -49,17 +49,17 @@
 ## Week 5
 ### Breadth First Search(BFS)
 - [x] [Breadth First Search: Shortest Reach](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/Breadth%20First%20Search-%20Shortest%20Reach.py)
-- [] [Hike](solution link comes here)
-- [] [Herding](solution link comes here)
+- [ ] [Hike](solution link comes here)
+- [ ] [Herding](solution link comes here)
 
 ### Depth First Search
 
-- [] [ALL iz Wel](solution link comes here)
-- [] [Prayatna](solution link comes here)
-- [] [Binary Tree Paths](solution link comes here)
-- [] [Count Luck](solution link comes here)
-- [] [Connected Cell in a Grid](solution link comes here)
-- [] [Graph Coloring](solution link comes here)
+- [ ] [ALL iz Wel](solution link comes here)
+- [ ] [Prayatna](solution link comes here)
+- [ ] [Binary Tree Paths](solution link comes here)
+- [ ] [Count Luck](solution link comes here)
+- [ ] [Connected Cell in a Grid](solution link comes here)
+- [ ] [Graph Coloring](solution link comes here)
 
 
 
