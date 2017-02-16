@@ -20,9 +20,17 @@
 - [x] [Power of Large numbers](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/Power%20of%20large%20numbers.py)
 
 ## Week 3
-### 
-- [x] [](solution link comes here)
+### QuickSort
+- [x] [Quicksort 1 - Partition](solution link comes here)
+- [x] [Quicksort 2 - Sorting](solution link comes here)
+- [x] [Quicksort In-Place](solution link comes here)
 
+### Counting Sort
+
+- [x] [Counting Sort 1](solution link comes here)
+- [x] [Counting Sort 2](solution link comes here)
+- [x] [Counting Sort 3](solution link comes here)
+- [x] [The Full Counting Sort](solution link comes here)
 
 
 ## Week 4
