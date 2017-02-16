@@ -9,15 +9,15 @@
 
 ## Week 2
 ### GCD and LCM Euclid’s Algorithm
-- [x] [Sherlock and GCD](solution link comes here)
+- [x] [Sherlock and GCD](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/Sherlock%20and%20GCD.py)
 
 ### Least Common Multiple (LCM)
-- [x] [Least Common Multiple (LCM)]( )
+- [x] [Least Common Multiple (LCM)](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/Least%20Common%20Multiple%20(LCM).py )
 
 ### Long Arithmetic (Multi, Sum, Div, Sub)
 
-- [x] [Extra Long Factorials]()
-- [x] [Power of Large numbers]()
+- [x] [Extra Long Factorials](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/Extra%20Long%20Factorials.py)
+- [x] [Power of Large numbers](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/Power%20of%20large%20numbers.py)
 
 ## Week 3
 ### 
