@@ -2,6 +2,6 @@
 
 ## Week 1
 ### Prime Numbers (Sieve of Eratosthenes)
-- [x] [Just a Small Implementation](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/BedirT/Week1/sieve\ question.cpp)
+- [x] [Just a Small Implementation](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/BedirT/Week1/sieve%20question.cpp)
 - [ ] [Distinct Primes]()
 
