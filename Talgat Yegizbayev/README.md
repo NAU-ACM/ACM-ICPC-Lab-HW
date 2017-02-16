@@ -1,22 +1,19 @@
-
-ACM-ICPC-Lab-HW
-
+# ACM-ICPC-Lab-HW
 This repository is for our members to publish their studies during our lab lectures
 
 (Below this line is the example Readme.md file, please copy and change it as yours)
 
-Bedir TAPKAN
+# Bedir TAPKAN
 
-Week 1
+## Week 1
+### Topic Name
+- [x] [Question Name](solution link comes here)
+- [x] [Question Name](solution link comes here)
+- [x] [Question Name](solution link comes here)
 
-Topic Name
+### Topic Name
+- [x] [Question Name](solution link comes here)
+- [x] [Question Name](solution link comes here)
+- [ ] [Question Name](solution link comes here)
 
- Question Name
- Question Name
- Question Name
-Topic Name
-
- Question Name
- Question Name
- Question Name
 // You will put your solutions in the folder named as yours and this readme file will be in that folder, named as readme.md
