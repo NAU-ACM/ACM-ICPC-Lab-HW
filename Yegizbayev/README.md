@@ -14,4 +14,8 @@ I will publish my studies during our ACM-ICPC lectures.
 - [x] [Question Name](solution link comes here)
 - [ ] [Question Name](solution link comes here)
 
+## Week 4
+### Binary Search
+- [x] [Ice Cream Parlor]()
+
 ###Solutions are coming
