@@ -1,0 +1,33 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    int t;
+    int n, m;
+    int a[10001];
+    cin >> t;
+    while( t-- ){
+        
+    cin>>n>>m;
+    int i,j ;
+    for ( i=1; i<=m;i++ )
+        cin>>a[i];
+        
+    for ( i=1;i<=m; i++ )
+    {
+        for ( j=i+1;j<=m;j++ ){
+            if ( a[i]+a[j]==n )
+            {
+                cout<<i<<" "<<j<<endl;
+                break;
+            }
+                
+        }
+    }
+    }
+}
