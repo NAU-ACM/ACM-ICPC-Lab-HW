@@ -16,11 +16,11 @@
 
 ## Week 2
 ### GCD and LCM Euclid’s Algorithm
-- [x] [Sherlock And GCD](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Nadide/Questions/SherlockAndGCD.cpp)
+- [x] [Sherlock And GCD]()
 - [ ] Complicated GCD
 
 ### Long Arithmetic (Multi, Sum, Div, Sub)
-- [x] [Extra Long Factorials](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Nadide/Questions/ExtraLongFactorials.cpp) 
+- [x] [Extra Long Factorials]() 
 - [ ] Power of Large Numbers
 
 
