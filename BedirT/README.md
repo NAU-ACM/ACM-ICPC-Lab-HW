@@ -20,8 +20,7 @@
 - [ ] Complicated GCD
 
 ### Long Arithmetic (Multi, Sum, Div, Sub)
-- [ ] [Extra Long Factorials](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/BedirT/Week2/Extra%20Long%20Factorial.cpp) 
-- [ ] Power of Large Numbers
+- [ ] [Extra Long Factorials](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/BedirT/Week2/Extra%20Long%20Factorial.cpp)
 
 
 ## Week 3
@@ -59,6 +58,7 @@
 - [ ] Count Luck
 - [ ] Connected Cell in a Grid
 - [ ] Graph Coloring
+- [ ] [Prayatna](https://github.com/BedirT/Algorithms_and_DS/blob/master/Problems/Curriculum%20Q's/Week%205/Prayatna.cpp)
 
 
 ## Week 6
