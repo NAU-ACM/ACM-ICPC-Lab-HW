@@ -2,10 +2,9 @@
  
 # Geraldo Braho
 
-
 ## Week 1
 ### Prime Numbers
-[x][Prime Numbers Implementation ](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%201/Prime%20Numbers.py)
+[x][Prime Numbers Implementation ](https://github.com/NAU-ACM/ACM-ICPC-Lab HW/blob/master/Geraldo%20Braho/HomeWorks/week%201/Prime%20Numbers.py)
 
 ## Week 2
 ### GCD and LCM Euclid’s Algorithm
@@ -16,39 +15,40 @@
  
 ### Long Arithmetic (Multi, Sum, Div, Sub)
 
- [x] [Extra Long Factorials](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%202/Extra%20Long%20Factorials.py)
- [x] [Power of Large numbers](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%202/Power%20of%20large%20numbers.py)
+[x] [Extra Long Factorials](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%202/Extra%20Long%20Factorials.py)
+[x] [Power of Large numbers](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%202/Power%20of%20large%20numbers.py)
 
- ## Week 3
- ### QuickSort
- [x] [Quicksort 1 - Partition](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%203/Quic%20Sort-partition.py)
+## Week 3
+
+### QuickSort
+ 
+[x] [Quicksort 1 - Partition](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%203/Quic%20Sort-partition.py)
  [x] [Quicksort 2 - Sorting](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%203/Quicksort%202%20-%20Sorting.py)
   [x] [Quicksort In-Place](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%203/Quicksort%20In-Place.py)
  
- ### Counting Sort
+### Counting Sort
  
  [x] [Counting Sort 1](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%203/Counting%20sort-1.py)
  [x] [Counting Sort 2](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%203/Counting%20sort-2.py)
  [ ] [Counting Sort 3](solution link comes here)
  [ ] [The Full Counting Sort](solution link comes here)
  
-
- ## Week 4
- ### Merge Sort
- ### Binary Search
+## Week 4
+### Merge Sort
+### Binary Search
  
   [ ][Search Insert Position](solution link comes here)
   [ ][10 beautiful practice question](solution link comes here)
   [x][Ice Cream Parlor](https://github.com/geraldo1993/Hackerrank/blob/master/Algorithm/Searching/Ice%20Cream%20Parlor.py)
   [ ][Maximum Subarray Sum](solution link comes here)
 
- ## Week 5
- ### Breadth First Search(BFS)
-  [x][Breadth First Search: Shortest Reach](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/Breadth%20First%20Search-%20Shortest%20Reach.py)
-  [ ][Hike](solution link comes here)
-  [ ][Herding](solution link comes here)
+## Week 5
+### Breadth First Search(BFS)
 
- ### Depth First Search
+[x][Breadth First Search: Shortest Reach](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/Breadth%20First%20Search-%20Shortest%20Reach.py)
+[ ][Hike](solution link comes here)
+[ ][Herding](solution link comes here)
+### Depth First Search
 
   [ ][ALL iz Wel](solution link comes here)
   [ ][Prayatna](solution link comes here)
