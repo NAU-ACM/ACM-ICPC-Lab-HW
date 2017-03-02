@@ -50,7 +50,9 @@
 - [x] [Breadth First Search: Shortest Reach](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/Breadth%20First%20Search-%20Shortest%20Reach.py)
 - [ ] [Hike](solution link comes here)
 - [ ] [Herding](solution link comes here)
+
 ### Depth First Search
+
 - [ ] [ALL iz Wel](solution link comes here)
 - [ ] [Prayatna](solution link comes here)
 - [ ] [Binary Tree Paths](solution link comes here)
