@@ -5,7 +5,7 @@
 
 ## Week 1
 ### Prime Numbers
-[x] [Prime Numbers Implementation ](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%201/Prime%20Numbers.py)
+[x][Prime Numbers Implementation ](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/week%201/Prime%20Numbers.py)
 
 ## Week 2
 ### GCD and LCM Euclid’s Algorithm
@@ -37,35 +37,36 @@
  ### Merge Sort
  ### Binary Search
  
-  [ ] [Search Insert Position](solution link comes here)
-  [ ] [10 beautiful practice question](solution link comes here)
-  [x] [Ice Cream Parlor](https://github.com/geraldo1993/Hackerrank/blob/master/Algorithm/Searching/Ice%20Cream%20Parlor.py)
-  [ ] [Maximum Subarray Sum](solution link comes here)
+  [ ][Search Insert Position](solution link comes here)
+  [ ][10 beautiful practice question](solution link comes here)
+  [x][Ice Cream Parlor](https://github.com/geraldo1993/Hackerrank/blob/master/Algorithm/Searching/Ice%20Cream%20Parlor.py)
+  [ ][Maximum Subarray Sum](solution link comes here)
 
  ## Week 5
  ### Breadth First Search(BFS)
-  [x] [Breadth First Search: Shortest Reach](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/Breadth%20First%20Search-%20Shortest%20Reach.py)
-  [ ] [Hike](solution link comes here)
-  [ ] [Herding](solution link comes here)
+  [x][Breadth First Search: Shortest Reach](https://github.com/NAU-ACM/ACM-ICPC-Lab-HW/blob/master/Geraldo%20Braho/HomeWorks/Breadth%20First%20Search-%20Shortest%20Reach.py)
+  [ ][Hike](solution link comes here)
+  [ ][Herding](solution link comes here)
 
  ### Depth First Search
 
-  [ ] [ALL iz Wel](solution link comes here)
-  [ ] [Prayatna](solution link comes here)
- [ ] [Binary Tree Paths](solution link comes here)
-  [ ] [Count Luck](solution link comes here)
- [ ] [Connected Cell in a Grid](solution link comes here)
-  [ ] [Graph Coloring](solution link comes here)
+  [ ][ALL iz Wel](solution link comes here)
+  [ ][Prayatna](solution link comes here)
+ [ ][Binary Tree Paths](solution link comes here)
+  [ ][Count Luck](solution link comes here)
+ [ ][Connected Cell in a Grid](solution link comes here)
+  [ ][Graph Coloring](solution link comes here)
 
  ## Week 6
  ### Dijkstra’s Shortest Path
- [ ] [Djikstra Shortest Reach](solution link comes here)
-[ ] [Travel cost](solution link comes here)
+ [ ][Djikstra Shortest Reach](solution link comes here)
+[ ][Travel cost](solution link comes here)
  
  ### Prim's Minimum Spanning Tree (MST)
- [ ] [Prim's (MST) : Special Subtree](solution link comes here)
+ [ ][Prim's (MST) : Special Subtree](solution link comes here)
  
- -### Floyd Warshall (All Pairs Shortest Path)
+ ### Floyd Warshall (All Pairs Shortest Path)
+ 
   [ ] [Floyd City of Lights](solution link comes here)
   [ ] [Arbitrage](solution link comes here)
  [ ] [API-Maelstrom](solution link comes here)
